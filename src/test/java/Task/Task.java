@@ -7,5 +7,7 @@ public class Task {
         System.out.println("HELLO WORLD");
         System.out.println("See u Darling in Github");
     }
-
+    public void hi(){
+        System.out.println("Hello from the inteligi");
+    }
 }
