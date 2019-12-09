@@ -7,5 +7,6 @@ public class Task {
         System.out.println("HELLO WORLD");
         System.out.println("See u Darling in Github");
     }
-
+public String hello(){
+    return "hello from GITHUB";
 }
